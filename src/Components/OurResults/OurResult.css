@@ -1,0 +1,13 @@
+.card{
+    width: auto;
+    text-align: center;
+    margin-left: 40px;
+    padding: 20px;
+}
+/* .photoGalery:hover{
+ margin-left: 50%;
+ z-index: 3000;
+} */
+.photoGalery:hover{
+    z-index: 1000;
+}

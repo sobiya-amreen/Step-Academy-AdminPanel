@@ -1,0 +1,85 @@
+.courseField {
+    /* width: 33%; */
+
+    /* width: 200px; */
+    margin: 10px;
+
+}
+
+/* .fieldBox{
+    display: block; 
+    margin: auto;   
+} */
+.course_search_form {
+    width: 67%;
+    margin-left: 190px;
+}
+
+.label {
+    display: flex;
+    margin-left: 200px;
+}
+
+.subjectBox {
+    margin-top: -50px;
+    /* height: 300px; */
+
+}
+
+.subjectSecondary {
+    margin-top: 20px;
+}
+
+div.row.subjectSecondary {
+    margin-top: -70px;
+}
+
+.size {
+    width: 400px;
+    margin-bottom: 20px;
+    height: 30px;
+}
+
+.subjectboxmargin {
+    margin-top: 15px;
+}
+
+.installmentcss {
+    margin: 10px;
+    width: 180px;
+    height: 50px;
+}
+
+.div {
+    margin-top: 120px;
+}
+
+.sub1 {
+    display: 'flex';
+    flex-direction: row;
+    position: absolute;
+    right: 50%;
+    bottom: 30%;
+    background-color: aqua;
+   
+    /* margin: 100px; */
+}
+
+.head {
+    margin-bottom:45px;
+
+    margin-left:10%;
+}
+.last{
+    margin-top: 30px;
+}
+.imageUpload{
+    margin-top: 30px;
+}
+.borderform{
+    border: 2px solid black;
+    width: 700px;
+    align-items: center;
+    margin-left: 25%;
+    padding: 10px;
+}

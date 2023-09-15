@@ -1,0 +1,23 @@
+<div className="col-lg-5 ml-auto align-self-center">
+                        <h2 className="section-title-underline mb-5">
+                            <span>Course Details</span>
+                        </h2>
+                        
+                        <p><strong className="text-black d-block">Teacher:</strong> Craig Daniel</p>
+                        <p className="mb-5"><strong className="text-black d-block">Hours:</strong> 8:00 am — 9:30am</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At itaque dolore libero corrupti! Itaque, delectus?</p>
+                        <p>Modi sit dolor repellat esse! Sed necessitatibus itaque libero odit placeat nesciunt, voluptatum totam facere.</p>
+    
+                        <ul className="ul-check primary list-unstyled mb-5">
+                            <li>Lorem ipsum dolor sit amet consectetur</li>
+                            <li>consectetur adipisicing  </li>
+                            <li>Sit dolor repellat esse</li>
+                            <li>Necessitatibus</li>
+                            <li>Sed necessitatibus itaque </li>
+                        </ul>
+
+                        <p>
+                            <a href="#" className="btn btn-primary rounded-0 btn-lg px-5">Enroll</a>
+                        </p>
+    
+                    </div>

@@ -1,0 +1,27 @@
+.logoImage{
+    height: 80px;
+    width: 80px;
+}
+/* .dropdown{
+    color: #2c2b31;
+} */
+#dropdown-item-button{
+    background: #fff;
+    border: none;
+    border-radius: 0;
+    color: #2c2b31;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 20px;
+    
+}
+#dropdown-item-button:hover{
+    background-color: #ff8a00;
+    color: #fff;
+}
+
+
+    .dropdown-menu.show {
+        display: block;
+        width: 13rem;
+    }

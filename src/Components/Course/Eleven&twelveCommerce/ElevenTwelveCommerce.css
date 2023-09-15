@@ -1,0 +1,17 @@
+.news_post_body{
+    margin-top: 40%;
+}
+.news_post_text{
+    text-align: left;
+}
+.courseDetail{
+    text-align: left;
+}
+.Arrow{
+    color: #ff8a00;
+    font-weight: bold;
+}
+.Arrow:hover{
+    color: #ff6600;
+    font-size: larger;
+}

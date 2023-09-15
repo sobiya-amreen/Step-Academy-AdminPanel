@@ -1,0 +1,16 @@
+/* .FooterLogoSize{
+   
+       margin-bottom: 40px;
+ 
+} */
+.footer .logo_container {
+    position: absolute;
+    top: -55px;
+    left: 0;
+}
+.text{
+    text-align: left;
+}
+.homeLinks{
+margin-right: -100px;
+}
