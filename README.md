@@ -1,1 +1,1 @@
-# Step-Academy-AdminPanel
+# Step-Academy-MemberPanel
